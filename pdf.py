@@ -5,7 +5,7 @@ import tkinter as tk
 import pyttsx3
 from tkinter import *
 from tkinter import filedialog
-
+#------------------------------------ GUI--------------------------------------
 Window=Tk()
 Window.geometry('500x350')
 Window.config(bg="orange")
